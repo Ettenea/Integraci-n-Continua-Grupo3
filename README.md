@@ -1,7 +1,7 @@
 # Integraci-n-Continua-Grupo3
 **Politecnico Grancolombiano**
 ##
-**Modulo: Integracion Continua Integrantes:**
+**Integracion Continua   Integrantes:**
 
 Eider Francisco Ocoro Cuero
 
