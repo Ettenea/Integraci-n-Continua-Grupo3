@@ -1,8 +1,7 @@
 # Integraci-n-Continua-Grupo3
-Proyecto de Software basado en herramientas de Integración Continua
-
+**Politecnico Grancolombiano**
 ##
-Integrantes:
+Modulo: Integracion Continua Integrantes:
 ##
 Eider Francisco Ocoro Cuero
 
